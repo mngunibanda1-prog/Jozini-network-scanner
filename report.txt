@@ -1,0 +1,9 @@
+Scan Report for 192.168.182.1 - 2026-09-05 20:50:00.038187
+
+[+] 21/open -> 220 KwaQondile Library FTP server (MikroTik 6.46.8) ready
+[+] 22/open -> SSH-2.0-ROSSSH
+[+] 23/open ->  #'
+[+] 53/open -> No banner
+[+] 80/open -> HTTP/1.0 200 OK
+[+] 8291/open -> No banner
+[+] 8728/open -> No banner
