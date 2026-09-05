@@ -21,4 +21,4 @@ Python, Sockets, Network Scanning, CVE Research, Report Writing
 ## Author
 Banda Mnguni - Aspiring Pentester from Jozini, KZN
 Built with: Termux + Python3
-Contact: 0784732551/mngunibanda1@gmail.com
+Contact: mngunibanda1@gmail.com
